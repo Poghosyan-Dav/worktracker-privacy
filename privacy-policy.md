@@ -54,7 +54,7 @@ App Tracking Transparency (iOS 14.5 and later)
 
 WorkTracker complies with Apple's App Tracking Transparency framework, a privacy feature introduced to protect your personal data. This framework ensures transparency and user control over data collection practices. We value your privacy and believe in the importance of providing you with clear information about how your data is used.
 
-**Permission Request**: WorkTracker may collect data for the purpose of tracking your activity within the app. This tracking enables us to enhance your user experience, offer personalized recommendations, and improve our services. To initiate data collection for tracking purposes, we are required to obtain your explicit permission.
+**Permission Request**: WorkTracker may collect data for the purpose of tracking your activity within the app. This tracking enables us to enhance your user experience, offer personalized recommendations, and improve our services. To initiate data collection for tracking purposes, we are required to obtain your explicit permission through Apple's App Tracking Transparency framework.
 
 **System Prompt**: When you first launch WorkTracker after updating to iOS 14.5 or later, you will receive a system prompt. This prompt will ask for your consent to allow or deny tracking for the app. You have the option to choose whether to grant permission or opt-out of tracking.
 
@@ -65,7 +65,6 @@ WorkTracker complies with Apple's App Tracking Transparency framework, a privacy
 **Questions and Concerns**: We understand that privacy is a matter of concern for our users. If you have any questions or concerns regarding our data collection practices or App Tracking Transparency, please do not hesitate to contact us using the information provided in the "Contact Us" section below.
 
 We are dedicated to safeguarding your privacy and ensuring transparency and user control over your data. Your trust is essential to us, and we aim to provide you with the best possible user experience while respecting your choices and protecting your personal information.
-
 
 
 Usage Data is collected automatically when using the Service.
